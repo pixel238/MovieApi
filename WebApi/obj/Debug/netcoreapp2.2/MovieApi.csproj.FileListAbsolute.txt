@@ -1,0 +1,14 @@
+C:\Users\cchowdhary\Documents\workSpace\WebApi\WebApi\bin\Debug\netcoreapp2.2\MovieApi.deps.json
+C:\Users\cchowdhary\Documents\workSpace\WebApi\WebApi\bin\Debug\netcoreapp2.2\MovieApi.runtimeconfig.json
+C:\Users\cchowdhary\Documents\workSpace\WebApi\WebApi\bin\Debug\netcoreapp2.2\MovieApi.runtimeconfig.dev.json
+C:\Users\cchowdhary\Documents\workSpace\WebApi\WebApi\bin\Debug\netcoreapp2.2\MovieApi.dll
+C:\Users\cchowdhary\Documents\workSpace\WebApi\WebApi\bin\Debug\netcoreapp2.2\MovieApi.pdb
+C:\Users\cchowdhary\Documents\workSpace\WebApi\WebApi\obj\Debug\netcoreapp2.2\MovieApi.csprojAssemblyReference.cache
+C:\Users\cchowdhary\Documents\workSpace\WebApi\WebApi\obj\Debug\netcoreapp2.2\MovieApi.csproj.CoreCompileInputs.cache
+C:\Users\cchowdhary\Documents\workSpace\WebApi\WebApi\obj\Debug\netcoreapp2.2\MovieApi.RazorAssemblyInfo.cache
+C:\Users\cchowdhary\Documents\workSpace\WebApi\WebApi\obj\Debug\netcoreapp2.2\MovieApi.RazorAssemblyInfo.cs
+C:\Users\cchowdhary\Documents\workSpace\WebApi\WebApi\obj\Debug\netcoreapp2.2\MovieApi.AssemblyInfoInputs.cache
+C:\Users\cchowdhary\Documents\workSpace\WebApi\WebApi\obj\Debug\netcoreapp2.2\MovieApi.AssemblyInfo.cs
+C:\Users\cchowdhary\Documents\workSpace\WebApi\WebApi\obj\Debug\netcoreapp2.2\MovieApi.RazorTargetAssemblyInfo.cache
+C:\Users\cchowdhary\Documents\workSpace\WebApi\WebApi\obj\Debug\netcoreapp2.2\MovieApi.dll
+C:\Users\cchowdhary\Documents\workSpace\WebApi\WebApi\obj\Debug\netcoreapp2.2\MovieApi.pdb
